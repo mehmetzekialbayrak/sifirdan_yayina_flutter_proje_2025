@@ -1,4 +1,6 @@
 # SIFIRDAN YAYINA FLUTTER PROJE EĞİTİMİ 2025
+1.Görev -- Herkes idx te projeyi oluşturup github a gödersin
+ilgii arkadaşlar hocayla akkayasoft.com da eşitinin videosunun tartışmalar kısmına github linkini paylaşacak.
 
 A new Flutter project.
 
